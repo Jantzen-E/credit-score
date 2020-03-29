@@ -7,6 +7,7 @@ class Factor extends React.Component {
 
     render() {
         return (
+            
             <div className="factors">
                 <details>
                     <summary>Credit History</summary>
