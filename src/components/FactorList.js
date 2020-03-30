@@ -9,7 +9,6 @@ class FactorList extends React.Component {
     render() {
         return (
             <div className="factorList">
-                <h2>Here is where the list starts</h2>
                 <Factor />
             </div>
         )

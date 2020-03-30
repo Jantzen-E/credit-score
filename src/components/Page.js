@@ -8,7 +8,7 @@ class Page extends React.Component {
 
     render() {
         return (
-            <div>
+            <div className="page">
                 <h1>What factors affect your credit score?</h1>
                 <FactorList />
             </div>
