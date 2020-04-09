@@ -1,5 +1,6 @@
 import React from 'react';
 import FactorList from './FactorList';
+import '../Responsive.css';
 
 //This is a stateful component example in case I want to add state and a backend to this react app in the future
 

@@ -1,0 +1,165 @@
+@media screen and (max-width: 1350px) {
+    .factorList {
+        background-position: 760px 40px;
+    }
+}
+
+
+@media screen and (max-width: 1250px) {
+    h1 {
+        font-size: 3.8em;
+    }
+
+    .factorList {
+        /* background-size: 500px 750px; */
+        padding: 0px;
+        padding-bottom: 2%;
+        background-position: 700px 15px;
+        background-size: 400px 750px;
+    }
+
+    .details {
+        margin: 0px;
+    }
+}
+
+/* @media screen and (max-width: 1190px) {
+    .factorList {
+        background-position: 675px 155px;
+    }
+} */
+
+@media screen and (max-width: 1100px) {
+    h1 {
+        font-size: 3.4em;
+    }
+
+    .factorList {
+        background-position: 620px 15px;
+    }
+}
+
+@media screen and (max-width: 1050px) {
+    .factorList {
+        background-position: 590px 60px;
+        background-size: 400px 650px;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    h1 {
+        font-size: 3em;
+    }
+
+    .factorList {
+        background-position: 560px 60px;
+    }
+}
+
+@media screen and (max-width: 940px) {
+    summary:after {
+        width: 40px;
+        height: 40px;
+    }
+
+    .factorList {
+        background-position: 530px 40px;
+    }
+
+    summary {
+        font-size: 1.5em;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .factorList {
+        background-position: 500px 70px;
+        background-size: 400px 600px;
+    }
+}
+
+@media screen and (max-width: 850px) {
+    .factorList {
+        background-position: 465px 100px;
+        background-size: 300px 450px;
+    }
+
+    summary {
+        font-size: 1.2em;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .factorList {
+        background-position: 445px 100px;
+    }
+}
+
+@media screen and (max-width: 750px) {
+    h1 {
+        font-size: 2.5em;
+    }
+
+    .factorList {
+        background-position: 405px 150px;
+        background-size: 250px 375px;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .factorList {
+        background-position: 390px 170px;
+        background-size: 250px 355px;
+    }
+}
+
+@media screen and (max-width: 650px) {
+    .factorList {
+        background-position: 360px 170px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .factorList {
+        background-position: 330px 170px;
+    }
+
+    summary {
+        font-size: 1.1em;
+    }
+}
+
+@media screen and (max-width: 570px) {
+    .factorList {
+        background-position: 310px 170px;
+    }
+
+    summary {
+        font-size: 1em;
+    }
+}
+
+@media screen and (max-width: 540px) {
+    .factorList {
+        background-position: 290px 140px;
+    }
+
+    summary {
+        font-size: .9em;
+    }
+}
+
+@media screen and (max-width: 510px) {
+    .factorList {
+        background-position: 275px 140px;
+    }
+
+    summary:after {
+        width: 30px;
+        height: 30px;
+    }
+
+    h1 {
+        margin-left: 8%;
+    }
+}

@@ -1,4 +1,5 @@
 import React from 'react';
+import '../Responsive.css';
 
 //This is a stateful component example in case I want to add state and a backend to this react app in the future
 
@@ -127,7 +128,7 @@ function Factor() {
                 <p>If you have a good mix of credit accounts, your score will go up as long as you are careful with the other factors that affect credit scores.</p>
             </details>
             <details> 
-                <summary>Benefits of a high credit score</summary>
+                <summary>High credit score benefits</summary>
                 <p>Easier to qualify for loans</p>
                 <p>You recieve lower interest rates on loans because you are perceived as being lower risk</p>
                 <p>

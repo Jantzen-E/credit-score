@@ -6,12 +6,12 @@
   margin-left: 2%;
   margin-right: 45%;
   text-align: left;
-  background-color: rgb(8, 8, 8);
-  /* padding: 1%; */
-  padding-left: 1%;
+  /* background-color: rgb(8, 8, 8); */
+  /* padding: 2%; */
+  /* padding-left: 1%;
   padding-right: 1%;
-  padding-bottom: 1px;
-  padding-top: 1.3%;
+  padding-bottom: .1%;
+  padding-top: 1.3%; */
   margin-bottom: none;
 }
 
@@ -24,6 +24,9 @@ h1 {
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-right: 5%;
+  margin-left: 5%;
+  text-align-last: center;
   /* color: #dc1e33; */
 }
 
@@ -37,6 +40,7 @@ details {
 
 details[open] {
   background-color: rgb(189, 166, 34);
+  /* opacity: .8; */
 }
 
 summary {
@@ -58,8 +62,8 @@ p {
 .factorList {
   background-image: url('https://www.rd.com/wp-content/uploads/2019/11/Credit-Scores-2.jpg');
   background-repeat: no-repeat;
-  background-size: 40vw;
-  background-position: 800px 120px;
+  background-size: 500px 750px;
+  background-position: 800px 40px;
   /* background-position-y: bottom right; */
   position: relative;
   padding-bottom: 2%;
@@ -111,5 +115,5 @@ details[open] summary:after {
   padding-top: 0%;
   padding-bottom: 0%;
   background-repeat: repeat;
-  background-size: 93.5em;
+  background-size: 95.1em;
 }
