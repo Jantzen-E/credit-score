@@ -166,10 +166,11 @@
 
 @media screen and (max-width: 490px) {
     .factorList {
-        background-position: 250px 140px;
+        background-position: 230px 130px;
+        background-size: 230px 345px;
     }
 
     details {
-        padding-left: 9px;
+        padding-left: 7px;
     }
 }
