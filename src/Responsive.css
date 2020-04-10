@@ -127,6 +127,18 @@
     summary {
         font-size: 1.1em;
     }
+
+    .footerTitle {
+        font-size: .7em;
+      }
+      
+      .githubLink {
+        font-size: .7em;
+      }
+      
+      .linkedInLink {
+        font-size: .7em;
+      }
 }
 
 @media screen and (max-width: 570px) {
