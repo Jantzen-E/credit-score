@@ -112,8 +112,8 @@ details[open] summary:after {
 .App {
   background-image: url('https://g.foolcdn.com/editorial/images/429871/credit_cards_large.jpg');
   /* background-color: rgb(182, 177, 177); */
-  padding-top: 0%;
-  padding-bottom: 0%;
+  /* padding-top: 0%;
+  padding-bottom: 0%; */
   background-repeat: repeat;
-  background-size: 95.1em;
+  background-size: 95.2em;
 }
