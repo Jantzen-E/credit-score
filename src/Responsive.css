@@ -1,21 +1,115 @@
+@media screen and (max-width: 2150px) {
+    .factorList {
+        background-position: 1360px 40px;
+    }
+
+    /* .page {
+        background-color: rgb(248, 7, 7);
+    } */
+}
+
+@media screen and (max-width: 1950px) {
+    .factorList {
+        background-position: 1200px 40px;
+    }
+
+    /* .page {
+        background-color: rgb(245, 149, 4);
+    } */
+}
+
+@media screen and (max-width: 1800px) {
+    .factorList {
+        background-position: 1100px 40px;
+    }
+
+    /* .page {
+        background-color: rgb(243, 239, 20);
+    } */
+}
+
+@media screen and (max-width: 1700px) {
+    .factorList {
+        background-position: 1000px 40px;
+    }
+
+    /* .page {
+        background-color: rgb(66, 250, 10);
+    } */
+}
+
+@media screen and (max-width: 1600px) {
+    .factorList {
+        background-position: 900px 40px;
+    }
+
+    /* .page {
+        background-color: rgb(8, 62, 241);
+    } */
+}
+
+@media screen and (max-width: 1500px) {
+    .factorList {
+        background-position: 850px 40px;
+    }
+
+    /* .page {
+        background-color: rgb(56, 15, 238);
+    } */
+}
+
+@media screen and (max-width: 1400px) {
+    .factorList {
+        background-position: 770px 40px;
+    }
+
+    /* .page {
+        background-color: rgb(255, 5, 5);
+    } */
+}
+
 @media screen and (max-width: 1350px) {
     .factorList {
         background-position: 760px 40px;
     }
+
+    /* .page {
+        background-color: rgb(252, 137, 6);
+    } */
 }
 
+@media screen and (max-width: 1320px) {
+    .factorList {
+        background-position: 730px 40px;
+    }
 
-@media screen and (max-width: 1250px) {
+    /* .page {
+        background-color: rgb(250, 246, 7);
+    } */
+}
+
+@media screen and (max-width: 1280px) {
+    .factorList {
+        background-position: 710px 90px;
+        background-size: 400px 606px;
+    }
+
+    /* .page {
+        background-color: rgb(8, 247, 8);
+    } */
+}
+
+@media screen and (max-width: 1190px) {
     h1 {
         font-size: 3.8em;
     }
 
+    /* .page {
+        background-color: blue;
+    } */
+
     .factorList {
-        /* background-size: 500px 750px; */
-        padding: 0px;
-        padding-bottom: 2%;
-        background-position: 700px 15px;
-        background-size: 400px 750px;
+        background-position: 670px 90px;
     }
 
     .details {
@@ -23,27 +117,29 @@
     }
 }
 
-/* @media screen and (max-width: 1190px) {
-    .factorList {
-        background-position: 675px 155px;
-    }
-} */
-
-@media screen and (max-width: 1100px) {
+@media screen and (max-width: 1140px) {
     h1 {
         font-size: 3.4em;
     }
 
     .factorList {
-        background-position: 620px 15px;
+        background-position: 650px 90px;
     }
+
+    /* .page {
+        background-color: rgb(102, 18, 238);
+    } */
 }
 
-@media screen and (max-width: 1050px) {
+@media screen and (max-width: 1100px) {
     .factorList {
-        background-position: 590px 60px;
-        background-size: 400px 650px;
+        background-position: 640px 170px;
+        background-size: 300px 454px;
     }
+
+    /* .page {
+        background-color: rgb(0, 0, 0);
+    } */
 }
 
 @media screen and (max-width: 1000px) {
@@ -52,8 +148,12 @@
     }
 
     .factorList {
-        background-position: 560px 60px;
+        background-position: 580px 170px;
     }
+
+    /* .page {
+        background-color: rgb(255, 255, 255);
+    } */
 }
 
 @media screen and (max-width: 940px) {
@@ -62,8 +162,12 @@
         height: 40px;
     }
 
+    /* .page {
+        background-color: rgb(253, 5, 5);
+    } */
+
     .factorList {
-        background-position: 530px 40px;
+        background-position: 550px 170px;
     }
 
     summary {
@@ -73,26 +177,37 @@
 
 @media screen and (max-width: 900px) {
     .factorList {
-        background-position: 500px 70px;
-        background-size: 400px 600px;
+        background-position: 510px 170px;
     }
+
+    /* .page {
+        background-color: orange;
+    } */
 }
 
 @media screen and (max-width: 850px) {
     .factorList {
-        background-position: 465px 100px;
-        background-size: 300px 450px;
+        background-position: 490px 170px;
+        background-size: 250px 378px;
     }
 
     summary {
         font-size: 1.2em;
     }
+
+    /* .page {
+        background-color: yellow;
+    } */
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 780px) {
     .factorList {
-        background-position: 445px 100px;
+        background-position: 460px 170px;
     }
+
+    /* .page {
+        background-color: green;
+    } */
 }
 
 @media screen and (max-width: 750px) {
@@ -101,28 +216,43 @@
     }
 
     .factorList {
-        background-position: 405px 150px;
-        background-size: 250px 375px;
+        background-position: 440px 170px;
     }
+
+    /* .page {
+        background-color: blue;
+    } */
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 720px) {
+    .factorList {
+        background-position: 410px 170px;
+    }
+
+    /* .page {
+        background-color: purple;
+    } */
+}
+
+@media screen and (max-width: 680px) {
     .factorList {
         background-position: 390px 170px;
-        background-size: 250px 355px;
+        background-size: 230px 348px;
     }
+
+    /* .page {
+        background-color: black;
+    } */
 }
 
-@media screen and (max-width: 650px) {
+@media screen and (max-width: 640px) {
     .factorList {
         background-position: 360px 170px;
     }
-}
 
-@media screen and (max-width: 600px) {
-    .factorList {
-        background-position: 330px 170px;
-    }
+    /* .page {
+        background-color: white;
+    } */
 
     summary {
         font-size: 1.1em;
@@ -141,30 +271,44 @@
       }
 }
 
-@media screen and (max-width: 570px) {
+@media screen and (max-width: 600px) {
     .factorList {
-        background-position: 310px 170px;
+        background-position: 350px 170px;
+        background-size: 200px 303px;
     }
+
+    /* .page {
+        background-color: red;
+    } */
 
     summary {
         font-size: 1em;
     }
 }
 
-@media screen and (max-width: 540px) {
+@media screen and (max-width: 570px) {
     .factorList {
-        background-position: 290px 140px;
+        background-position: 320px 170px;
     }
 
     summary {
         font-size: .9em;
     }
+
+    /* .page {
+        background-color: orange;
+    } */
 }
 
-@media screen and (max-width: 510px) {
+@media screen and (max-width: 530px) {
     .factorList {
-        background-position: 270px 140px;
+        background-position: 300px 210px;
+        background-size: 150px 227px;
     }
+
+    /* .page {
+        background-color: yellow;
+    } */
 
     summary:after {
         width: 30px;
@@ -176,13 +320,57 @@
     }
 }
 
-@media screen and (max-width: 490px) {
+@media screen and (max-width: 470px) {
     .factorList {
-        background-position: 230px 130px;
-        background-size: 230px 345px;
+        background-position: 270px 210px;
     }
 
     details {
         padding-left: 7px;
     }
+
+    /* .page {
+        background-color: green;
+    } */
+}
+
+@media screen and (max-width: 430px) {
+    .factorList {
+        background-position: 245px 210px;
+    }
+
+    /* .page {
+        background-color: blue;
+    } */
+}
+
+@media screen and (max-width: 400px) {
+    .factorList {
+        background-position: 225px 210px;
+    }
+
+    /* .page {
+        background-color: purple;
+    } */
+}
+
+@media screen and (max-width: 380px) {
+    .factorList {
+        background-position: 210px 230px;
+        background-size: 130px 197px;
+    }
+
+    /* .page {
+        background-color: pink;
+    } */
+}
+
+@media screen and (max-width: 350px) {
+    .factorList {
+        background-position: 199px 230px;
+    }
+
+    /* .page {
+        background-color: black;
+    } */
 }
