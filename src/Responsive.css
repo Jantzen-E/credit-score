@@ -329,6 +329,10 @@
         padding-left: 7px;
     }
 
+    summary {
+        font-size: .7em;
+    }
+
     /* .page {
         background-color: green;
     } */
